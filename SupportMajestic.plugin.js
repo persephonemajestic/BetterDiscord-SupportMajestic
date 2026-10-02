@@ -1,8 +1,10 @@
 /**
- * @name SupportTemplates
- * @author persephone
- * @description Кнопка с шаблонами ответов в строке ввода сообщения. Наборы шаблонов для разных серверов выбираются автоматически. Шаблон вставляется в поле ввода, отправляешь сам.
+ * @name SupportMajestic
+ * @author persephonemajestic
+ * @authorId 1197438268187365488
+ * @description Плагин для быстрых шаблонов текста
  * @version 0.5.1
+ * @source https://github.com/persephonemajestic/BetterDiscord-SupportMajestic
  */
 
 // Необязательно: ссылка на текстовый файл или JSON с шаблонами (формат см. в настройках плагина).
